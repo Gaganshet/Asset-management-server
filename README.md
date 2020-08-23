@@ -1,2 +1,1 @@
-# Asset-management-server
-React server
+# asset-management-server
